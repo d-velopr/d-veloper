@@ -1,8 +1,8 @@
-# d-veloper
+# d-velopr
 Thank You for joining me , these are a list of my config files
 
 
-Hello welcome to w4tch github repos .
+Hello welcome to d-velopr's github repos .
 
 
 
